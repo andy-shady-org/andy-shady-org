@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andy-shady-org
+- 👋 Hi, I’m andy
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on whatever
