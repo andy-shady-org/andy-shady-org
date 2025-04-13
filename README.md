@@ -1,6 +1,6 @@
 - 👋 Hi, I’m andy
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently working with Django, Web2Py and Py4Web
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me email is most likely
 
